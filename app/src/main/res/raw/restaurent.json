@@ -1,0 +1,239 @@
+[
+    {
+      "name":"Pizza Hut",
+      "address":"Lulu Mall, Edappally",
+      "delivery_charge": 5,
+      "image":"https://wallpapercave.com/wp/wp3603147.jpg",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 9:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 11:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 11:00 PM",
+        "Saturday":"10:00 AM - 2:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Paneer Pizza",
+          "price": 170.00,
+          "url": "https://hebbarskitchen.com/wp-content/uploads/mainPhotos/paneer-pizza-recipe-paneer-tikka-pizza-homemade-pizza-with-paneer-1.jpg"
+        },
+        {
+          "name": "Spaghettios Pizza",
+          "price": 100,
+          "url": "https://lh3.googleusercontent.com/p/AF1QipN-WboPX7pEgnNqg78wranzezsGMdPfwCoxQjdJ=s1280-p-no-v1"
+        },
+        {
+          "name": "Chocolate Pizza",
+          "price": 199,
+          "url": "https://149366112.v2.pressablecdn.com/wp-content/uploads/2017/08/blah.jpg"
+        },
+        {
+          "name": "Cheese Sticks",
+          "price": 70,
+          "url": "https://www.spendwithpennies.com/wp-content/uploads/2013/10/Cheese-Sticks-SpendWithPennies-2-21-500x500.jpg"
+        },
+        {
+          "name": "Chicken Barbecue Pizza",
+          "price": 220,
+          "url": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/2/28/1/FNM_040112-Copy-That-002_s4x3.jpg.rend.hgtvcom.826.620.suffix/1382541346030.jpeg"
+        },
+        {
+          "name": "Veggie Paradise Pizza",
+          "price": 190,
+          "url": "https://www.dominos.co.in//files/items/Digital_Veggie_Paradise_olo_266x265.jpg"
+        },
+        {
+          "name": "Pan Pizza",
+          "price": 300,
+          "url": "https://www.acouplecooks.com/wp-content/uploads/2020/05/Pan-Pizza-020.jpg"
+        },
+        {
+          "name": "Classic Cheese Pizza",
+          "price": 159,
+          "url": "https://cdn-fchae.nitrocdn.com/cQKnXzjGybEVSejWqcUjHabhzhfysXdH/assets/static/optimized/rev-b67f076/wp-content/uploads/2020/09/Cheese-pizza-1.jpg"
+        },
+        {
+          "name": "COOKIE AND BROWNIE ",
+          "price": 60,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70543/image?density=3&height=300&width=420"
+        },
+        {
+          "name": "BROWNIE PLATTER",
+          "price": 70,
+          "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70540/image?density=3&height=300&width=420"
+        }
+      ]
+    },
+    {
+      "name":"K F C",
+      "address":"Centre Square Mall Rajaji Road",
+      "delivery_charge": 15,
+      "image":"https://logos-download.com/wp-content/uploads/2016/03/KFC_Logo_2018-700x701.png",
+
+      "hours":{
+        "Sunday":"11:00 AM - 7:00 PM",
+        "Monday":"10:00 AM - 06:00 PM",
+        "Tuesday":"10:00 AM - 10:00 PM",
+        "Wednesday":"10:00 AM - 8:00 PM",
+        "Thursday":"10:00 AM - 10:00 PM",
+        "Friday":"10:00 AM - 10:00 PM",
+        "Saturday":"9:00 AM - 1:00 PM"
+      },
+      "menus": [
+        {
+          "name": "Zinger Tandoori Burger",
+          "price": 159,
+          "url": "https://www.indiablooms.com/life_pic/2020/5148dabdddfb323553feea68573167e7.jpg"
+        },
+        {
+          "name": "Chicken Bucket",
+          "price": 300,
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/10/IMG-20201024-WA0014-1024x1024.jpg"
+        },
+        {
+          "name": "KFC Fries",
+          "price": 49,
+          "url": "https://fastfoodnutrition.org/item-photos/full/8923_s.jpg"
+        },
+        {
+          "name": "Pepsi",
+          "price": 60,
+          "url": "https://www.bigbasket.com/media/uploads/p/l/251047_18-pepsi-soft-drink.jpg"
+        },
+        {
+          "name": "Milkshake",
+          "price": 50,
+          "url": "https://files.heftycdn.com/wp-content/uploads/2020/06/7c19980b4ec07e741b2823ea45370467.png"
+        },
+        {
+          "name": "Chocolate Shake",
+          "price": 60,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+        },
+        {
+          "name": "Strawberry Shake",
+          "price": 60,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Strawberry-McCafe-Shake-Medium.jpg?$Product_Desktop$"
+        },
+        {
+          "name": "Veg Zingle Burger",
+          "price": 49,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Filet-O-Fish.png?$Product_Desktop$"
+        },
+        {
+          "name": "KFC Nuggets",
+          "price": 99,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Chicken-McNuggets-4pc.jpg?$Product_Desktop$"
+        },
+        {
+          "name": "Combo Meal",
+          "price": 400,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Big-Mac-Extra-Value-Meals.jpg?$Product_Desktop$"
+        },
+        {
+          "name": "KFC Meal",
+          "price": 289,
+          "url": "https://www.mcdonalds.com/is/image/content/dam/usa/nfl/assets/meal/desktop/h-mcdonalds-Egg-McMuffin-Extra-Value-Meals.jpg?$Product_Desktop$"
+        }
+      ]
+    },
+  {
+    "name":"Barbeque Nation",
+    "address":"6th Floor Imperiaal Trade Center",
+    "delivery_charge": 5,
+    "image":"https://www.designideas.pics/wp-content/uploads/formidable/13/Screen-Shot-2017-08-07-at-2.40.43-PM-1.png",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"9:00 AM - 2:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Fruit Salad",
+        "price": 199,
+
+        "url": "https://dinnerthendessert.com/wp-content/uploads/2019/03/Fruit-Salad-3.jpg"
+      },
+      {
+        "name": "Paneer Tikka",
+        "price": 149,
+        "url": "https://foodiewish.com/wp-content/uploads/2020/05/Paneer-Tikka-Tawa.jpg"
+      },
+      {
+        "name": "Halwa",
+        "price": 139,
+
+        "url": "https://www.cubesnjuliennes.com/wp-content/uploads/2019/11/Gajar-Ka-Halwa-2.jpg"
+      },
+      {
+        "name": "Chinese Noodle",
+        "price": 199,
+        "url": "https://www.jessicagavin.com/wp-content/uploads/2018/01/chow-mein-1200.jpg"
+      },
+      {
+        "name": "Chicken Wings",
+        "price": 249,
+        "url": "https://www.jessicagavin.com/wp-content/uploads/2019/01/baked-chicken-wings-5-1200.jpg"
+      },
+      {
+        "name": "Pastry",
+        "price": 99,
+        "url": "https://cdn.shopify.com/s/files/1/0521/3929/4884/products/RedVelvetPastry1.jpg?v=1632143810"
+      }
+    ]
+  },
+  {
+    "name":"Drunken Panda",
+    "address":"Jawahar Rd, Koovapadam",
+    "delivery_charge": 6,
+    "image":"https://fresh4delivery.com/admin/uploads/restaurant/filename_(1).jpg",
+    "hours":{
+      "Sunday":"11:00 AM - 7:00 PM",
+      "Monday":"10:00 AM - 10:00 PM",
+      "Tuesday":"10:00 AM - 10:00 PM",
+      "Wednesday":"10:00 AM - 8:00 PM",
+      "Thursday":"10:00 AM - 10:00 PM",
+      "Friday":"10:00 AM - 10:00 PM",
+      "Saturday":"10:00 AM - 3:00 PM"
+    },
+    "menus": [
+      {
+        "name": "Veg Momos",
+        "price": 99,
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Momo_nepal.jpg/1200px-Momo_nepal.jpg"
+      },
+      {
+        "name": "French Fries",
+        "price": 149,
+        "url": "https://static.toiimg.com/thumb/msid-87034836,width-900,height-1200,resizemode-6.cms"
+      },
+      {
+        "name": "Lime Juice",
+        "price": 40,
+        "url": "https://urbanplatter.in/wp-content/uploads/2019/05/9738-03.jpg"
+      },
+      {
+        "name": "Veg Sandwich",
+        "price": 89,
+        "url": "https://static.toiimg.com/thumb/60057435.cms?width=1200&height=900"
+      },
+      {
+        "name": "Kesar Falooda",
+        "price": 129,
+        "url": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/swathynandhini/KESAR_PISTA_FALOODA.jpg"
+      },
+      {
+        "name": "Vanilla ice cream",
+        "price": 99,
+        "url": "https://public-assets.meredithcorp.io/ff39d1dc8423ebbe231b9bc89e019344/1650198213VIC.png"
+      }
+    ]
+  }
+]
